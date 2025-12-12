@@ -18,8 +18,6 @@ I'm a data scientist and social scientist.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=halfabluebanana&color=blue&label=Profile+Views)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halfabluebanana&show_icons=true&theme=vue&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=halfabluebanana&show_icons=true&theme=vue" alt="GitHub Stats" />
+</p>
