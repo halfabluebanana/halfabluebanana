@@ -1,7 +1,9 @@
-# Hi I'm Adeline Setiawan 👋
+<h1 align="center">
+  <b>Hi I'm Adeline Setiawan 👋</b>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=60&lines=ABOUT+ME" alt="Typing: ABOUT ME" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=3000&pause=1000&color=24292e&center=false&vCenter=true&width=600&height=60&lines=ABOUT+ME" alt="Typing: ABOUT ME" />
 </p>
 
 I'm a data scientist and social scientist. 
@@ -16,9 +18,8 @@ I'm a data scientist and social scientist.
 
 ---
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=$.value&url=https://api.countapi.xyz/hit/github.com/halfabluebanana&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=halfabluebanana&color=blue&label=Profile+Views)
 
 ---
 
-<!-- GitHub stats (as provided) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halfabluebanana&show_icons=true&theme=vue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halfabluebanana&show_icons=true&theme=vue&hide_border=true)
