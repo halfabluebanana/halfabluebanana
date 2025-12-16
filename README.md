@@ -3,11 +3,12 @@
 </p>
 
 <h3 align="left">
-  <b>Hi I'm Adeline Setiawan 👋</b>
+  Hi I'm Adeline Setiawan 👋
+  I'm a data scientist and social scientist.
 </h3>
 
 
-I'm a data scientist and social scientist.
+
 - Born in Indonesia, raised in Singapore. Now in New York City!
 - Currently: Columbia University graduate student of computational social science
 - Researching: recommender systems + graph networks + misinformation + review systems 
