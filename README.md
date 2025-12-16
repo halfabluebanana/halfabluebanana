@@ -7,8 +7,9 @@
 </h3>
 
 
-I'm a data scientist and social scientist. 
-- Currenty: Columbia University graduate student of computational social science
+I'm a data scientist and social scientist.
+- Born in Indonesia, raised in Singapore. Now in New York City!
+- Currently: Columbia University graduate student of computational social science
 - Researching: recommender systems + graph networks + misinformation + review systems 
 - Interested in: information asymmetry, digital civic society, structural inequality, climate change
 - Previously: NYU Tisch Interactive Media Arts (Masters), National University of Singapore Sociology + Cultural Studies
@@ -16,5 +17,10 @@ I'm a data scientist and social scientist.
 - 10+ years of experience as UX / Design + User Researcher 
 - former design researcher at frog Design 
 - former behavioural researcher and lead experience designer at Kantar Public Singapore
+
+LOOKING FOR: 
+- Data and design projects related to: recommender systems + behavioural design
+- Open to coffee chats! Let me know how I can help!
+
 
 ---
