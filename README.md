@@ -10,14 +10,10 @@ I'm a data scientist and social scientist.
 - Currenty: Columbia University graduate student of computational social science
 - Researching: recommender systems + graph networks + misinformation + review systems 
 - Interested in: information asymmetry, digital civic society, structural inequality, climate change
-- Previously: Masters from NYU Tisch Interactive Media Arts, Sociology from National University of Singapore
+- Previously: NYU Tisch Interactive Media Arts (Masters), National University of Singapore Sociology + Cultural Studies
   
 - 10+ years of experience as UX / Design + User Researcher 
-- former frog Design 
-- former Kantar Public Behavioural Research and Experience Design Lead
+- former design researcher at frog Design 
+- former behavioural researcher and lead experience designer at Kantar Public Singapore
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halfabluebanana&show_icons=true&theme=vue" alt="GitHub Stats" />
-</p>
