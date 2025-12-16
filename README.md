@@ -1,10 +1,11 @@
-<h1 align="center">
-  <b>Hi I'm Adeline Setiawan 👋</b>
-</h1>
-
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=3000&pause=1000&color=24292e&center=false&vCenter=true&width=600&height=60&lines=ABOUT+ME" alt="Typing: ABOUT ME" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=28&duration=3000&pause=1000&color=3e3e3e&center=false&vCenter=true&width=600&height=60&lines=ABOUT+ME" alt="Typing: ABOUT ME" />
 </p>
+
+<h3 align="left">
+  <b>Hi I'm Adeline Setiawan 👋</b>
+</h3>
+
 
 I'm a data scientist and social scientist. 
 - Currenty: Columbia University graduate student of computational social science
