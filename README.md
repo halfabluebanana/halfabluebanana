@@ -21,7 +21,8 @@
 
 LOOKING FOR: 
 - Data and design projects related to: recommender systems + behavioural design
-- Open to coffee chats! Let me know how I can help!
+- Projects related to civic technology, behavioural signals, subtle digital art / electronic sculptures!
+- Open to coffee chats. Let me know how I can help!
 
 
 ---
