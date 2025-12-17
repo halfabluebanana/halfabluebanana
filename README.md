@@ -11,7 +11,7 @@
 
 - Born in Indonesia, raised in Singapore. Now in New York City!
 - Currently: Columbia University graduate student of computational social science
-- Researching: recommender systems + graph networks + misinformation + review systems 
+- Researching: recommender systems + graph networks + misinformation + review systems + digital civic society 
 - Interested in: information asymmetry, digital civic society, structural inequality, climate change
 - Previously: NYU Tisch Interactive Media Arts (Masters), National University of Singapore Sociology + Cultural Studies
   
