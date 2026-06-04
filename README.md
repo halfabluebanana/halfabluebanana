@@ -3,9 +3,7 @@
 </p>
 
 <h3 align="left">
-  I'm Adeline Setiawan
-  <br> 
-  I research how AI systems shape the people and communities that use them.
+  Hi I'm Adeline Setiawan. I research how AI systems shape the people and communities that use them.
 </h3>
 
 My work sits at the intersection of behavioral science, computational analysis, and platform dynamics. I use NLP pipelines, network analysis, and mixed-methods research to study the structural signatures of human and synthetic interaction — what they reveal about platform health, information spread, and the design of AI experience.
@@ -15,7 +13,7 @@ My work sits at the intersection of behavioral science, computational analysis, 
 ## Recent projects
 
 **[Reddit Community Network Analysis](https://github.com/halfabluebanana/reddit-community-network-analysis)**
-Mapped interaction structure across three Reddit networks — verified human debaters, GPT-2 bots, and IRA influence accounts. Found that humans show 42.8% reply reciprocity vs. 1.4% for IRA bots and 0% for GPT-2 bots. Bots broadcast. Humans converse. The structural difference is measurable and has direct implications for platform design.
+Mapped interaction structure across three Reddit networks: verified human debaters, GPT-2 bots, and IRA influence accounts. Found that humans show 42.8% reply reciprocity vs. 1.4% for IRA bots and 0% for GPT-2 bots. Bots broadcast. Humans converse. The structural difference is measurable and has direct implications for platform design.
 
 **[Iran War Media Framing](https://media-framing-iran-2026.streamlit.app/)**
 Filtered 53,000 articles to 1,925 across 77 sources. Scored each across five framing dimensions using a local LLM (Gemma4). Clustered outlets by framing profile and built cosine-similarity network graphs. Published as an interactive Streamlit app.
@@ -33,7 +31,7 @@ NLP engine for a generative dome installation. ~800 words from Calvino and Watts
 - MA Quantitative Methods of Social Sciences, Columbia University (in progress)
 - MA Interactive Media Arts, NYU Tisch ITP/IMA
 - BA Sociology (Honours), National University of Singapore
-- Lead Behavioral Researcher, Kantar Public Singapore
+- Lead Behavioral x Experience Designer, Kantar Public Singapore
 - Design Researcher, Frog
 - Co-founder, FabCafe at ArtScience Museum Singapore
 - Co-founder, Saturday Kids
@@ -53,7 +51,7 @@ Research conversations, collaborations, and roles at the intersection of AI beha
 [linkedin.com/in/adelinesetiawan](https://linkedin.com/in/adelinesetiawan) · [linlinlin.online](https://linlinlin.online)
 
 
-- Born in Indonesia, raised in Singapore. Now in New York City!
+- Born in Indonesia, raised in Singapore. Now in Brooklyn, New York
 - Currently: Columbia University graduate student of computational social science
 - Researching: recommender systems + graph networks + misinformation + review systems + digital civic society 
 - Interested in: information asymmetry, digital civic society, structural inequality, climate change
