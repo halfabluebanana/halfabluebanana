@@ -3,7 +3,8 @@
 </p>
 
 <h3 align="left">
-  Hi I'm Adeline Setiawan 👋
+  I'm Adeline Setiawan
+  <br> 
   I research how AI systems shape the people and communities that use them.
 </h3>
 
