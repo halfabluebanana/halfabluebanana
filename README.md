@@ -64,6 +64,7 @@ Research conversations, collaborations, and roles at the intersection of AI beha
 ---
 
 ## LOOKING FOR: 
+
 - Data and design projects related to: recommender systems + behavioural design
 - Projects related to civic technology, behavioural signals, subtle digital art / electronic sculptures!
 - Open to coffee chats. Let me know how I can help!
