@@ -61,10 +61,11 @@ Research conversations, collaborations, and roles at the intersection of AI beha
 - former design researcher at frog Design 
 - former behavioural researcher and lead experience designer at Kantar Public Singapore
 
-LOOKING FOR: 
+---
+
+## LOOKING FOR: 
 - Data and design projects related to: recommender systems + behavioural design
 - Projects related to civic technology, behavioural signals, subtle digital art / electronic sculptures!
 - Open to coffee chats. Let me know how I can help!
-
 
 ---
